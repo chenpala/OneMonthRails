@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'simple_form',"~> 3.1.0.rc2", github: "plataformatec/simple_form", branch: "master"
 gem 'devise'
 gem 'bootstrap-sass'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
