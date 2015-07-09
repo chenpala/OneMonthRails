@@ -1,8 +1,14 @@
 source 'https://rubygems.org'
 
+
+
+gem 'jquery-turbolinks'
+gem 'paperclip'
 gem 'simple_form',"~> 3.1.0.rc2", github: "plataformatec/simple_form", branch: "master"
 gem 'devise'
 gem 'bootstrap-sass'
+
+gem 'masonry-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.2'
 # Use sqlite3 as the database for Active Record

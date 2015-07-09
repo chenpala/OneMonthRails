@@ -13,6 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require jquery.turbolinks
+//= require masonry/jquery.masonry
+//= require masonry/jquery.imagesloaded.min
 //= require bootstrap/dropdown
 //= require bootstrap/alert
+//= require_tree .
